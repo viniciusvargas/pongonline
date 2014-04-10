@@ -1,0 +1,23 @@
+p {
+	text-align: center;
+	font-size: xx-large;
+	font-family: arial;
+}
+#p1score {
+	float: left;
+	width: 150px;
+}
+#p2score {
+	float: right;
+	width: 150px;
+}
+#divpongtable {
+	float:center;
+}
+
+.instructions {
+	font-size: x-small;
+	font-family: monospace;
+}
+
+
